@@ -34,8 +34,6 @@ func main() {
 			fmt.Println(numeroPassword, lettera, string(slicePassword[primoNumero - 1]), string(slicePassword[secondoNumero - 1]))
 			passwordCorrette++
 		}
-
-
 	}
 	fmt.Println(passwordCorrette, numeroPassword)
 }
