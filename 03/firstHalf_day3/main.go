@@ -15,20 +15,21 @@ func main() {
 	for b.Scan() {
 		t := b.Text()
 
-		for len(t) < countSteps {
+		for len(t) - 10 < countSteps {
 			t += t
 		}
-
+		fmt.Println(len(t))
 		if countRow > 0 {
 			for i,r := range t {
 				if r == '#' && i == countSteps {
 					trees++
+					break
 				}
 			}
 		}
 		countRow++
 		countSteps += 3
-		fmt.Println("Riga ->", countRow, "\nlettera ->", countSteps)
-		fmt.Println(trees)
+		fmt.Println("Row ->", countRow, "Character ->", countSteps)
+		fmt.Println("trees -->", trees)
 	}
 }
