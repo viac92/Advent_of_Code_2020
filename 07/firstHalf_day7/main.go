@@ -27,7 +27,7 @@ func main() {
 	for b.Scan() {
 		t := b.Text()
 		fmt.Println(t)
-		
+			
 	}
 }
 //[{3 clear tan} {0 dull white} {4 drab tomato} {0 clear turquoise} {2 dark coral} {0 wavy lime} {4 wavy coral} {0 striped green} {0 shiny salmon} {0 plaid gray}]
