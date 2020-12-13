@@ -1,0 +1,161 @@
+[{1 dull magenta} {5 dark white} {4 faded turquoise}]
+1
+dull magenta
+[{5 dark white} {4 faded turquoise}]
+dark white
+[{4 faded turquoise} {25 light aqua} {10 dim teal} {10 muted fuchsia} {25 light purple}]
+faded turquoise
+[{25 light aqua} {10 dim teal} {10 muted fuchsia} {25 light purple} {20 light lime} {16 dark white}]
+light aqua
+[{10 dim teal} {10 muted fuchsia} {25 light purple} {20 light lime} {16 dark white} {25 plaid lavender} {75 wavy coral} {125 shiny indigo}]
+dim teal
+[{10 muted fuchsia} {25 light purple} {20 light lime} {16 dark white} {25 plaid lavender} {75 wavy coral} {125 shiny indigo} {40 light purple} {40 plaid lavender} {10 dull magenta}]
+muted fuchsia
+[{25 light purple} {20 light lime} {16 dark white} {25 plaid lavender} {75 wavy coral} {125 shiny indigo} {40 light purple} {40 plaid lavender} {10 dull magenta} {10 dull tan}]
+26
+light purple
+[{20 light lime} {16 dark white} {25 plaid lavender} {75 wavy coral} {125 shiny indigo} {40 light purple} {40 plaid lavender} {10 dull magenta} {10 dull tan}]
+light lime
+[{16 dark white} {25 plaid lavender} {75 wavy coral} {125 shiny indigo} {40 light purple} {40 plaid lavender} {10 dull magenta} {10 dull tan} {80 plaid indigo}]
+dark white
+[{25 plaid lavender} {75 wavy coral} {125 shiny indigo} {40 light purple} {40 plaid lavender} {10 dull magenta} {10 dull tan} {80 plaid indigo} {400 light aqua} {160 dim teal} {160 muted fuchsia} {400 light purple}]
+plaid lavender
+[{75 wavy coral} {125 shiny indigo} {40 light purple} {40 plaid lavender} {10 dull magenta} {10 dull tan} {80 plaid indigo} {400 light aqua} {160 dim teal} {160 muted fuchsia} {400 light purple} {25 dull magenta} {50 dull silver} {25 shiny indigo}]
+101
+wavy coral
+[{125 shiny indigo} {40 light purple} {40 plaid lavender} {10 dull magenta} {10 dull tan} {80 plaid indigo} {400 light aqua} {160 dim teal} {160 muted fuchsia} {400 light purple} {25 dull magenta} {50 dull silver} {25 shiny indigo}]
+226
+shiny indigo
+[{40 light purple} {40 plaid lavender} {10 dull magenta} {10 dull tan} {80 plaid indigo} {400 light aqua} {160 dim teal} {160 muted fuchsia} {400 light purple} {25 dull magenta} {50 dull silver} {25 shiny indigo}]
+266
+light purple
+[{40 plaid lavender} {10 dull magenta} {10 dull tan} {80 plaid indigo} {400 light aqua} {160 dim teal} {160 muted fuchsia} {400 light purple} {25 dull magenta} {50 dull silver} {25 shiny indigo}]
+plaid lavender
+[{10 dull magenta} {10 dull tan} {80 plaid indigo} {400 light aqua} {160 dim teal} {160 muted fuchsia} {400 light purple} {25 dull magenta} {50 dull silver} {25 shiny indigo} {1000 dull magenta} {2000 dull silver} {1000 shiny indigo}]
+276
+dull magenta
+[{10 dull tan} {80 plaid indigo} {400 light aqua} {160 dim teal} {160 muted fuchsia} {400 light purple} {25 dull magenta} {50 dull silver} {25 shiny indigo} {1000 dull magenta} {2000 dull silver} {1000 shiny indigo}]
+dull tan
+[{80 plaid indigo} {400 light aqua} {160 dim teal} {160 muted fuchsia} {400 light purple} {25 dull magenta} {50 dull silver} {25 shiny indigo} {1000 dull magenta} {2000 dull silver} {1000 shiny indigo} {40 shiny indigo} {20 light purple} {40 faded cyan}]
+plaid indigo
+[{400 light aqua} {160 dim teal} {160 muted fuchsia} {400 light purple} {25 dull magenta} {50 dull silver} {25 shiny indigo} {1000 dull magenta} {2000 dull silver} {1000 shiny indigo} {40 shiny indigo} {20 light purple} {40 faded cyan} {240 dark brown} {400 light purple} {320 light aqua} {240 light green}]
+light aqua
+[{160 dim teal} {160 muted fuchsia} {400 light purple} {25 dull magenta} {50 dull silver} {25 shiny indigo} {1000 dull magenta} {2000 dull silver} {1000 shiny indigo} {40 shiny indigo} {20 light purple} {40 faded cyan} {240 dark brown} {400 light purple} {320 light aqua} {240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo}]
+dim teal
+[{160 muted fuchsia} {400 light purple} {25 dull magenta} {50 dull silver} {25 shiny indigo} {1000 dull magenta} {2000 dull silver} {1000 shiny indigo} {40 shiny indigo} {20 light purple} {40 faded cyan} {240 dark brown} {400 light purple} {320 light aqua} {240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta}]
+muted fuchsia
+[{400 light purple} {25 dull magenta} {50 dull silver} {25 shiny indigo} {1000 dull magenta} {2000 dull silver} {1000 shiny indigo} {40 shiny indigo} {20 light purple} {40 faded cyan} {240 dark brown} {400 light purple} {320 light aqua} {240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan}]
+676
+light purple
+[{25 dull magenta} {50 dull silver} {25 shiny indigo} {1000 dull magenta} {2000 dull silver} {1000 shiny indigo} {40 shiny indigo} {20 light purple} {40 faded cyan} {240 dark brown} {400 light purple} {320 light aqua} {240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan}]
+701
+dull magenta
+[{50 dull silver} {25 shiny indigo} {1000 dull magenta} {2000 dull silver} {1000 shiny indigo} {40 shiny indigo} {20 light purple} {40 faded cyan} {240 dark brown} {400 light purple} {320 light aqua} {240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan}]
+751
+dull silver
+[{25 shiny indigo} {1000 dull magenta} {2000 dull silver} {1000 shiny indigo} {40 shiny indigo} {20 light purple} {40 faded cyan} {240 dark brown} {400 light purple} {320 light aqua} {240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan}]
+776
+shiny indigo
+[{1000 dull magenta} {2000 dull silver} {1000 shiny indigo} {40 shiny indigo} {20 light purple} {40 faded cyan} {240 dark brown} {400 light purple} {320 light aqua} {240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan}]
+1776
+dull magenta
+[{2000 dull silver} {1000 shiny indigo} {40 shiny indigo} {20 light purple} {40 faded cyan} {240 dark brown} {400 light purple} {320 light aqua} {240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan}]
+3776
+dull silver
+[{1000 shiny indigo} {40 shiny indigo} {20 light purple} {40 faded cyan} {240 dark brown} {400 light purple} {320 light aqua} {240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan}]
+4776
+shiny indigo
+[{40 shiny indigo} {20 light purple} {40 faded cyan} {240 dark brown} {400 light purple} {320 light aqua} {240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan}]
+4816
+shiny indigo
+[{20 light purple} {40 faded cyan} {240 dark brown} {400 light purple} {320 light aqua} {240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan}]
+4836
+light purple
+[{40 faded cyan} {240 dark brown} {400 light purple} {320 light aqua} {240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan}]
+4876
+faded cyan
+[{240 dark brown} {400 light purple} {320 light aqua} {240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan}]
+dark brown
+[{400 light purple} {320 light aqua} {240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan} {1200 light purple}]
+5276
+light purple
+[{320 light aqua} {240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan} {1200 light purple}]
+light aqua
+[{240 light green} {10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan} {1200 light purple} {3200000 plaid lavender} {9600000 wavy coral} {16000000 shiny indigo}]
+light green
+[{10000 plaid lavender} {30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan} {1200 light purple} {3200000 plaid lavender} {9600000 wavy coral} {16000000 shiny indigo} {960 bright red} {240 vibrant coral}]
+plaid lavender
+[{30000 wavy coral} {50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan} {1200 light purple} {3200000 plaid lavender} {9600000 wavy coral} {16000000 shiny indigo} {960 bright red} {240 vibrant coral} {10000000 dull magenta} {20000000 dull silver} {10000000 shiny indigo}]
+35276
+wavy coral
+[{50000 shiny indigo} {6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan} {1200 light purple} {3200000 plaid lavender} {9600000 wavy coral} {16000000 shiny indigo} {960 bright red} {240 vibrant coral} {10000000 dull magenta} {20000000 dull silver} {10000000 shiny indigo}]
+85276
+shiny indigo
+[{6400 light purple} {6400 plaid lavender} {1600 dull magenta} {1600 dull tan} {1200 light purple} {3200000 plaid lavender} {9600000 wavy coral} {16000000 shiny indigo} {960 bright red} {240 vibrant coral} {10000000 dull magenta} {20000000 dull silver} {10000000 shiny indigo}]
+91676
+light purple
+[{6400 plaid lavender} {1600 dull magenta} {1600 dull tan} {1200 light purple} {3200000 plaid lavender} {9600000 wavy coral} {16000000 shiny indigo} {960 bright red} {240 vibrant coral} {10000000 dull magenta} {20000000 dull silver} {10000000 shiny indigo}]
+plaid lavender
+[{1600 dull magenta} {1600 dull tan} {1200 light purple} {3200000 plaid lavender} {9600000 wavy coral} {16000000 shiny indigo} {960 bright red} {240 vibrant coral} {10000000 dull magenta} {20000000 dull silver} {10000000 shiny indigo} {64000000000 dull magenta} {128000000000 dull silver} {64000000000 shiny indigo}]
+93276
+dull magenta
+[{1600 dull tan} {1200 light purple} {3200000 plaid lavender} {9600000 wavy coral} {16000000 shiny indigo} {960 bright red} {240 vibrant coral} {10000000 dull magenta} {20000000 dull silver} {10000000 shiny indigo} {64000000000 dull magenta} {128000000000 dull silver} {64000000000 shiny indigo}]
+dull tan
+[{1200 light purple} {3200000 plaid lavender} {9600000 wavy coral} {16000000 shiny indigo} {960 bright red} {240 vibrant coral} {10000000 dull magenta} {20000000 dull silver} {10000000 shiny indigo} {64000000000 dull magenta} {128000000000 dull silver} {64000000000 shiny indigo} {64000 shiny indigo} {32000 light purple} {64000 faded cyan}]
+94476
+light purple
+[{3200000 plaid lavender} {9600000 wavy coral} {16000000 shiny indigo} {960 bright red} {240 vibrant coral} {10000000 dull magenta} {20000000 dull silver} {10000000 shiny indigo} {64000000000 dull magenta} {128000000000 dull silver} {64000000000 shiny indigo} {64000 shiny indigo} {32000 light purple} {64000 faded cyan}]
+plaid lavender
+[{9600000 wavy coral} {16000000 shiny indigo} {960 bright red} {240 vibrant coral} {10000000 dull magenta} {20000000 dull silver} {10000000 shiny indigo} {64000000000 dull magenta} {128000000000 dull silver} {64000000000 shiny indigo} {64000 shiny indigo} {32000 light purple} {64000 faded cyan} {204800000000000000 dull magenta} {409600000000000000 dull silver} {204800000000000000 shiny indigo}]
+9694476
+wavy coral
+[{16000000 shiny indigo} {960 bright red} {240 vibrant coral} {10000000 dull magenta} {20000000 dull silver} {10000000 shiny indigo} {64000000000 dull magenta} {128000000000 dull silver} {64000000000 shiny indigo} {64000 shiny indigo} {32000 light purple} {64000 faded cyan} {204800000000000000 dull magenta} {409600000000000000 dull silver} {204800000000000000 shiny indigo}]
+25694476
+shiny indigo
+[{960 bright red} {240 vibrant coral} {10000000 dull magenta} {20000000 dull silver} {10000000 shiny indigo} {64000000000 dull magenta} {128000000000 dull silver} {64000000000 shiny indigo} {64000 shiny indigo} {32000 light purple} {64000 faded cyan} {204800000000000000 dull magenta} {409600000000000000 dull silver} {204800000000000000 shiny indigo}]
+bright red
+[{240 vibrant coral} {10000000 dull magenta} {20000000 dull silver} {10000000 shiny indigo} {64000000000 dull magenta} {128000000000 dull silver} {64000000000 shiny indigo} {64000 shiny indigo} {32000 light purple} {64000 faded cyan} {204800000000000000 dull magenta} {409600000000000000 dull silver} {204800000000000000 shiny indigo} {2880 dull silver}]
+vibrant coral
+[{10000000 dull magenta} {20000000 dull silver} {10000000 shiny indigo} {64000000000 dull magenta} {128000000000 dull silver} {64000000000 shiny indigo} {64000 shiny indigo} {32000 light purple} {64000 faded cyan} {204800000000000000 dull magenta} {409600000000000000 dull silver} {204800000000000000 shiny indigo} {2880 dull silver} {240 bright orange}]
+35694476
+dull magenta
+[{20000000 dull silver} {10000000 shiny indigo} {64000000000 dull magenta} {128000000000 dull silver} {64000000000 shiny indigo} {64000 shiny indigo} {32000 light purple} {64000 faded cyan} {204800000000000000 dull magenta} {409600000000000000 dull silver} {204800000000000000 shiny indigo} {2880 dull silver} {240 bright orange}]
+55694476
+dull silver
+[{10000000 shiny indigo} {64000000000 dull magenta} {128000000000 dull silver} {64000000000 shiny indigo} {64000 shiny indigo} {32000 light purple} {64000 faded cyan} {204800000000000000 dull magenta} {409600000000000000 dull silver} {204800000000000000 shiny indigo} {2880 dull silver} {240 bright orange}]
+65694476
+shiny indigo
+[{64000000000 dull magenta} {128000000000 dull silver} {64000000000 shiny indigo} {64000 shiny indigo} {32000 light purple} {64000 faded cyan} {204800000000000000 dull magenta} {409600000000000000 dull silver} {204800000000000000 shiny indigo} {2880 dull silver} {240 bright orange}]
+64065694476
+dull magenta
+[{128000000000 dull silver} {64000000000 shiny indigo} {64000 shiny indigo} {32000 light purple} {64000 faded cyan} {204800000000000000 dull magenta} {409600000000000000 dull silver} {204800000000000000 shiny indigo} {2880 dull silver} {240 bright orange}]
+192065694476
+dull silver
+[{64000000000 shiny indigo} {64000 shiny indigo} {32000 light purple} {64000 faded cyan} {204800000000000000 dull magenta} {409600000000000000 dull silver} {204800000000000000 shiny indigo} {2880 dull silver} {240 bright orange}]
+256065694476
+shiny indigo
+[{64000 shiny indigo} {32000 light purple} {64000 faded cyan} {204800000000000000 dull magenta} {409600000000000000 dull silver} {204800000000000000 shiny indigo} {2880 dull silver} {240 bright orange}]
+256065758476
+shiny indigo
+[{32000 light purple} {64000 faded cyan} {204800000000000000 dull magenta} {409600000000000000 dull silver} {204800000000000000 shiny indigo} {2880 dull silver} {240 bright orange}]
+256065790476
+light purple
+[{64000 faded cyan} {204800000000000000 dull magenta} {409600000000000000 dull silver} {204800000000000000 shiny indigo} {2880 dull silver} {240 bright orange}]
+256065854476
+faded cyan
+[{204800000000000000 dull magenta} {409600000000000000 dull silver} {204800000000000000 shiny indigo} {2880 dull silver} {240 bright orange}]
+204800256065854476
+dull magenta
+[{409600000000000000 dull silver} {204800000000000000 shiny indigo} {2880 dull silver} {240 bright orange}]
+614400256065854476
+dull silver
+[{204800000000000000 shiny indigo} {2880 dull silver} {240 bright orange}]
+819200256065854476
+shiny indigo
+[{2880 dull silver} {240 bright orange}]
+819200256065857356
+dull silver
+[{240 bright orange}]
+819200256065857596
+bright orange
+819200256065857596
