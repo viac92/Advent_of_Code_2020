@@ -14,100 +14,99 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-	"strconv"
 	"strings"
+	"strconv"
+	"regexp"
 )
 
 type bag struct {
-	num  int
-	name string
+	numberOfBag int
+	bagName string
 }
 
-func createBag(str []string) []bag {
-	var bagOut []bag
-	var num int
-	if len(str) == 7 {
-		bagOut = append(bagOut, bag{0, str[1] + " " + str[0]})
-		return bagOut
-	}
-	for i := len(str) - 2; i > 0; i -= 4 {
-		if i == 1 {
-			num = 0
-		} else {
-			num, _ = strconv.Atoi(str[i-2])
+type bagRule struct {
+	ruleName string
+	bagConteined []bag
+}
+
+func parseLine(line string) (bRule bagRule, err error) {
+	var b bag
+	var nameSlice []string
+	nameBagRule := regexp.MustCompile("([a-z])+")
+	nameSlice = nameBagRule.FindAllString(line, 2)
+	bRule.ruleName = nameSlice[0] + " " + nameSlice[1]
+
+
+	if strings.ContainsAny(line, "0123456789") {
+		
+		numberBagConteinde := regexp.MustCompile("[0-9]")	
+		nameBagContained := regexp.MustCompile("([a-z])+")
+		for strings.ContainsAny(line, "0123456789") {
+			
+			b.numberOfBag,_ = strconv.Atoi(numberBagConteinde.FindString(line))			
+			line = line[numberBagConteinde.FindStringIndex(line)[0] + 1:]
+			s := nameBagContained.FindAllString(line, 2) 
+			b.bagName = s[0] + " " + s[1] 
+					
+			bRule.bagConteined = append(bRule.bagConteined, b)
 		}
-		bagOut = append(bagOut, bag{num, str[i-1] + " " + str[i]})
-		if i == 6 {
-			i--
-		}
 	}
-	return bagOut
+	return
 }
 
 func main() {
 	b := bufio.NewScanner(os.Stdin)
-	var bagSlice []bag
-	var canGold []bag
-	var sliceT []string
+	var bRule []bagRule
+	var okBag []string
+	var okBagCounter int
 
-	counter := 0
 	for b.Scan() {
-		counter++
 		t := b.Text()
-		rowSlice := strings.Split(t, " ")
-		bagSlice = createBag(rowSlice)
-		sliceT = append(sliceT, t)
-		fmt.Println(counter)
-		fmt.Println(bagSlice)
-
-		flag := false
-		for i := 0; i < len(bagSlice); i++ {
-			if flag {
-				canGold = append(canGold, bagSlice[i])
-			}
-			if  bagSlice[i].name == "shiny gold" {
-				flag = true
-			}
-		}
-		if flag {
-			fmt.Println(canGold)
-			fmt.Println()
-		}
+		bR,_ := parseLine(t) 
+		bRule = append(bRule, bR)
 	}
 
-	var bagContainGold []string
-	goldBag := 0
-	for _,r := range sliceT {
-		for _,k := range canGold {
-			if strings.Contains(r, k.name) {
-				rowSlice := strings.Split(r, " ")
-				bagContainGold = append(bagContainGold, rowSlice[0] + " " + rowSlice[1])
-				goldBag++
+	for _,bR := range bRule {
+		for _,bg := range bR.bagConteined {
+			if bg.bagName == "shiny gold" {
+				okBag = append(okBag, bR.ruleName)
+				okBagCounter++
 				break
 			}
 		}
 	}
 
-	var bagContainGold2 []string
-	for _,r := range sliceT {
-		for _,k := range bagContainGold {
-			if strings.Contains(r, k) {
-				rowSlice := strings.Split(r, " ")
-				bagContainGold = append(bagContainGold2, rowSlice[0] + " " + rowSlice[1])
-				goldBag++
-				break
+	var count int
+	for {
+		fmt.Println(okBag[count:])
+		for _,ok := range okBag[count:] {
+			count++
+			for _,bR := range bRule {
+				loop: for _,bg := range bR.bagConteined {
+					if ok == bg.bagName {
+						for _,allOk := range okBag {
+							if allOk == bR.ruleName {
+								break loop
+							}
+						}
+						okBag = append(okBag, bR.ruleName)
+						okBagCounter++
+						break
+					}
+				}
 			}
 		}
+		if count == len(okBag) {
+			break
+		}
+		fmt.Println(count)
 	}
 
-
-
-	fmt.Println(canGold)
-	fmt.Println(len(canGold))
-	fmt.Println(goldBag)
-	fmt.Println(bagContainGold)
-	fmt.Println(len(bagContainGold))
-	fmt.Println(bagContainGold2)
-	fmt.Println(len(bagContainGold2))
+	// fmt.Println(bRule)
+	// fmt.Println()
+	for _,r := range okBag {
+	 fmt.Println(r)
+	}
+	fmt.Println(len(okBag))
+	// fmt.Println(okBagCounter)
 }
-//[{3 clear tan} {0 dull white} {4 drab tomato} {0 clear turquoise} {2 dark coral} {0 wavy lime} {4 wavy coral} {0 striped green} {0 shiny salmon} {0 plaid gray}]
