@@ -18,7 +18,9 @@ type instruction struct {
 func main() {
 	b := bufio.NewScanner(os.Stdin)
 	var inst[] instruction
+	var validInstruction map[int]int
 
+	inst = append(inst, instruction{"zero", 0})
 	for b.Scan() {
 		t := b.Text()
 		tSlice := strings.Split(t," ")
@@ -29,20 +31,31 @@ func main() {
 		inst = append(inst, instAppend)
 	}
 
-	rowCounter := 0
+	rowCounter := 1
 	accumulator := 0
-	for rowCounter < 628 {
+	validInstruction = make(map[int]int)
+	for rowCounter <= 628 {
+		validInstruction[rowCounter]++
+		if validInstruction[rowCounter] > 1 {
+			break
+		}
+		fmt.Println(rowCounter)
+		fmt.Println(inst[rowCounter])
 		actualInst := inst[rowCounter]
 		
 		if actualInst.operation == "acc" {
 			accumulator += actualInst.arggument
 		} 
 		if actualInst.operation == "jmp" {
-			rowCounter += actualInst.arggument
+			if actualInst.arggument < 0 {
+				rowCounter += actualInst.arggument + 1
+			} 
+			if actualInst.arggument > 0 {
+				rowCounter += actualInst.arggument - 1
+			}
 			continue
 		}
 	
-		fmt.Println(rowCounter+1)
 		rowCounter++
 	}
 	
