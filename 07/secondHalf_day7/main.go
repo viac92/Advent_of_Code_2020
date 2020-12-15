@@ -12,7 +12,7 @@ package main
 
 import (
 	"bufio"
-	_"fmt"
+	"fmt"
 	"os"
 	"strings"
 	"strconv"
@@ -58,6 +58,7 @@ func main() {
 	b := bufio.NewScanner(os.Stdin)
 	var bRule []bagRule
 	var bGold []bag
+	var countGold int
 
 	for b.Scan() {
 		t := b.Text()
@@ -72,4 +73,21 @@ func main() {
 			}
 		}
 	}
+
+	
+	
+	for i := 0; i < len(bGold); i++ {
+		countGold += bGold[i].numberOfBag
+		for _,bR := range bRule {
+			if bGold[i].bagName == bR.ruleName {
+				for _,bC := range bR.bagConteined {
+					bagAppend := bC.numberOfBag * bGold[i].numberOfBag
+					bGold = append(bGold, bag{bagAppend, bC.bagName})
+				}
+			}
+		}
+	}
+	
+	fmt.Println(bGold)
+	fmt.Println(countGold)
 }
