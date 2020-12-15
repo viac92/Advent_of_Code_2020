@@ -1,0 +1,1016 @@
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
+{jmp 287} jmp
+291
+{jmp -186} jmp
+106
+{jmp 82} jmp
+187
+{jmp -118} jmp
+70
+{nop -30} nop
+71
+ciaoooooooooooooooooooooooooooooooooooooooooooooooo
+1
+{jmp 583} jmp
+583
+{jmp -191} jmp
+393
+{jmp -156} jmp
+238
+{jmp 154} jmp
+391
+{jmp -138} jmp
+254
+{acc -11} acc
+255
+{acc 6} acc
+256
+{jmp -252} jmp
+5
