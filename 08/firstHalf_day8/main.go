@@ -48,10 +48,10 @@ func main() {
 		} 
 		if actualInst.operation == "jmp" {
 			if actualInst.arggument < 0 {
-				rowCounter += actualInst.arggument + 1
+				rowCounter += actualInst.arggument
 			} 
 			if actualInst.arggument > 0 {
-				rowCounter += actualInst.arggument - 1
+				rowCounter += actualInst.arggument
 			}
 			continue
 		}
