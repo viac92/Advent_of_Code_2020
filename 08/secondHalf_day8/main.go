@@ -18,7 +18,7 @@ type instruction struct {
 func main() {
 	b := bufio.NewScanner(os.Stdin)
 	var inst []instruction
-	var validInstruction, validInstruction2 map[int]int
+	var validInstruction map[int]int
 
 	inst = append(inst, instruction{"zero", 0})
 	for b.Scan() {
@@ -33,7 +33,6 @@ func main() {
 
 	rowCounter := 1
 	accumulator := 0
-	validInstruction2 = make(map[int]int)
 	
 	tryFirstFor := 0
 	trySecondFor := 0
@@ -45,11 +44,18 @@ func main() {
 		rowCounter = 1
 		accumulator = 0
 		
-		for rowCounter != 627 {
+		for rowCounter < 630 {
 			var actualOperation string
-			validInstruction[rowCounter]++
-			fmt.Println(rowCounter)
+			if tryFirstFor != trySecondFor {
+				validInstruction[rowCounter]++
+			}
 			actualInst := inst[rowCounter]
+			
+			fmt.Println(rowCounter)
+			fmt.Println(validInstruction)
+			fmt.Println("tryFirst", tryFirstFor)
+			fmt.Println("trySecond", trySecondFor)
+			
 			
 			if tryFirstFor == trySecondFor {
 				if actualInst.operation == "jmp" {
@@ -58,8 +64,12 @@ func main() {
 				if actualInst.operation == "nop" {
 					actualOperation = "jmp"
 				}
+				fmt.Println("swap")
 				} else {
 					actualOperation = actualInst.operation
+				}
+				if validInstruction[rowCounter] > 1 {
+					break
 				}
 				
 				fmt.Println(inst[rowCounter], actualOperation)
@@ -68,17 +78,11 @@ func main() {
 					accumulator += actualInst.arggument
 				}
 				if actualOperation == "jmp" {
-					if actualInst.arggument == -1 {
-						rowCounter--
-					}
-					if actualInst.arggument == 1 {
-						rowCounter++
-					}
 					if actualInst.arggument < 0 {
-						rowCounter += actualInst.arggument + 1
+						rowCounter += actualInst.arggument
 					}
 					if actualInst.arggument > 0 {
-						rowCounter += actualInst.arggument - 1
+						rowCounter += actualInst.arggument
 					}
 					trySecondFor++
 					continue
@@ -87,13 +91,9 @@ func main() {
 					trySecondFor++
 				}
 				rowCounter++
-				if validInstruction[rowCounter] > 1 || validInstruction2[rowCounter] > 1 {
-					break
-				}
 			}
-			validInstruction2[rowCounter] += 2
 		fmt.Println(rowCounter)
-		if rowCounter == 628 {
+		if rowCounter >= 630 {
 			break
 		}
 		trySecondFor = 0
