@@ -30,7 +30,7 @@ func main() {
 			sum += num[j]
 			fmt.Printf("Numero piccolo - %d\nNumero grande - %d\nSomma - %d\n\n",n, num[j], sum)
 			if sum == 10884537 {
-				highN = num[j]
+				highN = num[j - 1]
 				break
 			}
 			if sum > 10884537 {
@@ -43,7 +43,6 @@ func main() {
 			break
 		}
 	}
-
 	fmt.Println(sum)
 	fmt.Println(weakness)
 }
