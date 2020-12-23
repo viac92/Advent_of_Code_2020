@@ -8,6 +8,8 @@ import (
 	"sort"
 )
 
+
+
 func main() {
 	file,err := os.Open("puzzleInput.txt")
 	if err != nil {
@@ -25,34 +27,24 @@ func main() {
 	}
 	sort.Ints(adapters)
 	adapters = append(adapters, adapters[len(adapters)-1] + 3)
-	fmt.Println(adapters)
-
-
+	
+	for _,i := range adapters {
+		fmt.Println(i)
+	}
+	
 	recursion := make(map[int]int)
 	currentJ := 0
 
-	option := 1
 	for i := 0; i <  len(adapters);  i++ {
+		fmt.Printf("i = %d - %d\n", i, adapters[i])
+		
 		differrance := adapters[i] - currentJ
 		currentJ = adapters[i]
 		recursion[differrance]++
-
-		if i == len(adapters) - 1 {
+		
+		if i == len(adapters) - 6 {
 			break
 		}
-
-		fmt.Println(adapters[i])
-
-		if adapters[i+1] - adapters[i] == 1 && adapters[i+2] - adapters[i] == 2 {
-			option++
-			fmt.Println("uno",option)
-			if adapters[i+3] - adapters[i] == 3 {
-				option++
-				fmt.Println("due",option)
-			}
-		}
+		
 	}
-
-	fmt.Println(recursion)
-	fmt.Println(option)
 }
